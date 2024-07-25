@@ -31,10 +31,10 @@ Este projeto Python utiliza Selenium para realizar web scraping de dados de pre�
 3. **Execute o script:**
 
    
-   python main.py
+   python app.py
    
 
 4. **Verifique o arquivo Excel gerado:**
 
-   - Após a execução, verifique o arquivo `product_data.xlsx` para visualizar os dados coletados.
+   Após a execução, verifique o arquivo `product_data.xlsx` para visualizar os dados coletados.
 
